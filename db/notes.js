@@ -4,8 +4,8 @@
 
 const notesArray = [
     {
-      notesTitle: 'Notes test',
-      noteText: 'Test text'
+      notesTitle: "",
+      noteText: "",
     },
   ];
 

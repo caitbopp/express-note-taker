@@ -19,7 +19,7 @@ FS, Express, and ShortID are required to use the Express Note Taker.
 
 You can view my deployed project on Heroku [here](https://cbopp-express-note-taker.herokuapp.com/).
 
-<img src="./assets/preview.png">
+<img src="assets/preview.png">
 
 ## License
 This project is licensed under the: none.
